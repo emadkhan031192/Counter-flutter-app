@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Lets Zikr count on the volume button while your screen is off. Zikr does not read screen content or use this permission for anything else.</string>
+</resources>
